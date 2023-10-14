@@ -6,3 +6,4 @@
 
 ## Books
 * [How Asia Works](books/How-Asia-Works.md)
+* [Cloud Strategy](books/Cloud-Strategy.md)
